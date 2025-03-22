@@ -125,7 +125,7 @@ body {
     .nav-links {
         position: static;
         display: flex;
-        margin-left: 312px;     
+        margin-left: 670px;     
         flex-direction: row;
         background: none;
         box-shadow: none;
@@ -151,7 +151,8 @@ body {
     .nav-links a:hover {
         color: #f39c12;
     }
-.subheading { 
+    
+    .subheading { 
     font-size: 1.2rem;
     font-weight: 500;
     opacity: 0.85;
