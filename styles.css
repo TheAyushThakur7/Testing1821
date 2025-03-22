@@ -151,8 +151,16 @@ body {
     .nav-links a:hover {
         color: #f39c12;
     }
+.subheading { 
+    font-size: 1.2rem;
+    font-weight: 500;
+    opacity: 0.85;
+    margin-top: -20px;    
+    position: relative;
+    top: -0px; /* Moves it slightly upwards */
+    left: 0px; /* Shifts it a bit to the left */
 }
-
+}
 /* Mobile Navbar - Keep Toggle */
 @media (max-width: 768px) {
     .menu-toggle {
