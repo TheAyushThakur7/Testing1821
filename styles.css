@@ -199,7 +199,7 @@ body {
     opacity: 0.85;
     margin-top: -20px;    
     position: relative;
-    top: -48px; /* Moves it slightly upwards */
+    top: -25px; /* Moves it slightly upwards */
     left: 0px; /* Shifts it a bit to the left */
 }
 
